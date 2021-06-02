@@ -1,9 +1,9 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/gkhays/github-stats)
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/gkhays/github-stats">
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/gkhays/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/gkhays/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
